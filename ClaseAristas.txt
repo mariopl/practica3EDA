@@ -1,0 +1,6 @@
+idTelesilla1;Telesilla1,300
+idTelesilla2;Telesilla2,400
+idTelesilla3;Telesilla3,250
+idPista1;Pista1,1000
+idPista2;Pista2,2000
+idPista3;Pista3,700

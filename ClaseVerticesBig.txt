@@ -1,0 +1,8 @@
+idZona1;Zona1,0,principiantes
+idZona2;Zona2,100,principiantes
+idZona3;Zona3,140,principiantes
+idZona4;Zona4,720,expertos
+idZona5;Zona5,1000,expertos
+idZona6;Zona6,900,principiantes
+idZona7;Zona7,1200,principiantes
+idZona8;Zona8,1200,expertos

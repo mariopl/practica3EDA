@@ -1,0 +1,8 @@
+idZona1;idZona2;idTelesilla1
+idZona1;idZona3;idTelesilla2
+idZona1;idZona4;idTelesilla3
+idZona4;idZona5;idPista1
+idZona4;idZona2;idPista2
+idZona4;idZona3;idPista3
+idZona6;idZona8;idPista4
+idZona6;idZona7;idTelesilla4

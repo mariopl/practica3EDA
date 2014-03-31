@@ -1,0 +1,6 @@
+Zona1;Zona2;Telesilla1
+Zona1;Zona3;Telesilla2
+Zona1;Zona4;Telesilla3
+Zona4;Zona5;Pista1
+Zona4;Zona2;Pista2
+Zona4;Zona3;Pista3
